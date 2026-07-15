@@ -7,7 +7,7 @@
         <language>en</language>
         <item>
             <title>Andraia 0.1.0</title>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>0</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <pubDate>Wed, 15 Jul 2026 03:54:07 +0000</pubDate>
