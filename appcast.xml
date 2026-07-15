@@ -6,6 +6,14 @@
         <description>Andraia updates</description>
         <language>en</language>
         <item>
+            <title>Andraia 0.1.1</title>
+            <sparkle:version>95</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Wed, 15 Jul 2026 04:32:02 +0000</pubDate>
+            <enclosure url="https://github.com/ft-AstroBoy/andraia-updates/releases/download/v0.1.1/Andraia-0.1.1.dmg" sparkle:edSignature="sdqG7bHdvqHca8t16cqqCAz3WWNuHl9L99/JdvDa1hv0KoX0GEVep6+c3mj+jERQl78ZY47NMHFT4LlcC73tAg==" length="144423250" type="application/octet-stream" />
+        </item>
+        <item>
             <title>Andraia 0.1.0</title>
             <sparkle:version>0</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
