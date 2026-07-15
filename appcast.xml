@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Andraia</title>
+        <link>https://raw.githubusercontent.com/ft-AstroBoy/andraia-updates/main/appcast.xml</link>
+        <description>Andraia updates</description>
+        <language>en</language>
+        <item>
+            <title>Andraia 0.1.0</title>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Wed, 15 Jul 2026 03:54:07 +0000</pubDate>
+            <enclosure url="https://github.com/ft-AstroBoy/andraia-updates/releases/download/v0.1.0/Andraia-0.1.0.dmg" sparkle:edSignature="BRSZmlVzcJtIOZDiFxzUiDzzzFEQxmJQRZ7blCR0/lEku4PwTGmtfuw+gK60DJ7kWUiVkK6qxUh0p9hU/vxMDg==" length="144422209" type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
