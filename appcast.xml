@@ -6,6 +6,14 @@
         <description>Andraia updates</description>
         <language>en</language>
         <item>
+            <title>Andraia 0.3.22</title>
+            <sparkle:version>301</sparkle:version>
+            <sparkle:shortVersionString>0.3.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 07 Sep 2026 22:12:50 +0000</pubDate>
+            <enclosure url="https://github.com/funtime-design/andraia-updates/releases/download/v0.3.22/Andraia-0.3.22.dmg" sparkle:edSignature="xRazGAMYuiEkWQ/cG8dqSbeA4bQE04tCeXtiUtk3ax0VuzsluM7MCJXkFKPsB+thbmlFGcbgTNwjX5zd+ZqtBA==" length="121235101" type="application/octet-stream" />
+        </item>
+        <item>
             <title>Andraia 0.3.20</title>
             <sparkle:version>299</sparkle:version>
             <sparkle:shortVersionString>0.3.20</sparkle:shortVersionString>
