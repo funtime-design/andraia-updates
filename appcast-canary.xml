@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Andraia (canary)</title>
+        <link>https://raw.githubusercontent.com/ft-AstroBoy/andraia-updates/main/appcast-canary.xml</link>
+        <description>Andraia updates</description>
+        <language>en</language>
+        <item>
+            <title>Andraia 0.3.75</title>
+            <sparkle:version>381</sparkle:version>
+            <sparkle:shortVersionString>0.3.75</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Thu, 22 Oct 2026 23:48:20 +0000</pubDate>
+            <enclosure url="https://github.com/funtime-design/andraia-updates/releases/download/v0.3.75/Andraia-0.3.75.dmg" sparkle:edSignature="JphEjUYg52JBB0YSfcUNLN4yqTxh6zWRBflj/owJtHrAS3P5TvOJNoEk7Bq7uqybETfOP1aNJXcLChvr3ZJbCg==" length="140442964" type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
