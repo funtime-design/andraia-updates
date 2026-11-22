@@ -14,6 +14,14 @@
             <enclosure url="https://github.com/funtime-design/andraia-updates/releases/download/nightly-567/Andraia-0.3.123-nightly.567.dmg" sparkle:edSignature="WK8bI0bVz2MyyMqk9cQkEVEG44wBh+cd/Q6cDPKz6O6Aa3az0azIIzAz3EH6gOurUiyIkuMqOMJ1juXvywmWCg==" length="141398730" type="application/octet-stream" />
         </item>
         <item>
+            <title>Andraia 0.3.123</title>
+            <sparkle:version>567</sparkle:version>
+            <sparkle:shortVersionString>0.3.123</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Sun, 22 Nov 2026 22:46:40 +0000</pubDate>
+            <enclosure url="https://github.com/funtime-design/andraia-updates/releases/download/v0.3.123/Andraia-0.3.123.dmg" sparkle:edSignature="rp21Do7TtvQM8DO1Kn5HGgUdoaEe3hLgPbOqbryd6C7U/m5xP92BzNq3PXRenCu/R0hzSQ0XXCbsR+T5MVnrAA==" length="141397722" type="application/octet-stream" />
+        </item>
+        <item>
             <title>Andraia 0.3.123-nightly.566</title>
             <sparkle:version>566</sparkle:version>
             <sparkle:shortVersionString>0.3.123-nightly.566</sparkle:shortVersionString>
