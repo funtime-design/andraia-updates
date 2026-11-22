@@ -6,6 +6,14 @@
         <description>Andraia updates</description>
         <language>en</language>
         <item>
+            <title>Andraia 0.3.123-nightly.567</title>
+            <sparkle:version>567</sparkle:version>
+            <sparkle:shortVersionString>0.3.123-nightly.567</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Sun, 22 Nov 2026 22:35:42 +0000</pubDate>
+            <enclosure url="https://github.com/funtime-design/andraia-updates/releases/download/nightly-567/Andraia-0.3.123-nightly.567.dmg" sparkle:edSignature="WK8bI0bVz2MyyMqk9cQkEVEG44wBh+cd/Q6cDPKz6O6Aa3az0azIIzAz3EH6gOurUiyIkuMqOMJ1juXvywmWCg==" length="141398730" type="application/octet-stream" />
+        </item>
+        <item>
             <title>Andraia 0.3.123-nightly.566</title>
             <sparkle:version>566</sparkle:version>
             <sparkle:shortVersionString>0.3.123-nightly.566</sparkle:shortVersionString>
