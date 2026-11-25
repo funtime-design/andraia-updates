@@ -6,6 +6,14 @@
         <description>Andraia updates</description>
         <language>en</language>
         <item>
+            <title>Andraia 0.3.125-nightly.578</title>
+            <sparkle:version>578</sparkle:version>
+            <sparkle:shortVersionString>0.3.125-nightly.578</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Wed, 25 Nov 2026 05:04:57 +0000</pubDate>
+            <enclosure url="https://github.com/funtime-design/andraia-updates/releases/download/nightly-578/Andraia-0.3.125-nightly.578.dmg" sparkle:edSignature="1iBynKLlCuPmh32E+uOAMLGozHKbqZ9+qykooA0cXAhrFI4IFcG61bEjfSZbZ8Gh4RnTJHUyIVN3PrKGU/0sDg==" length="141392483" type="application/octet-stream" />
+        </item>
+        <item>
             <title>Andraia 0.3.125-nightly.574</title>
             <sparkle:version>574</sparkle:version>
             <sparkle:shortVersionString>0.3.125-nightly.574</sparkle:shortVersionString>
